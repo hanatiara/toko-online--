@@ -1,0 +1,8 @@
+CRITICAL - 2021-12-13 19:09:10 --> Undefined property: App\Controllers\c_barang::$input
+#0 D:\xampp\htdocs\toko-online\app\Controllers\c_barang.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 78)
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#3 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}

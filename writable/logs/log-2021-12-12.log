@@ -1,0 +1,186 @@
+CRITICAL - 2021-12-12 02:24:40 --> Undefined property: App\Controllers\c_barang::$m_jual
+#0 D:\xampp\htdocs\toko-online\app\Controllers\c_barang.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 93)
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#3 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-12 02:45:24 --> Unsupported operand types: array - float
+#0 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-12 02:55:25 --> Unsupported operand types: stdClass - float
+#0 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-12 03:31:16 --> Unsupported operand types: array - float
+#0 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-12 03:31:53 --> Unsupported operand types: stdClass - float
+#0 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-12 03:39:27 --> Unsupported operand types: stdClass - float
+#0 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-12 03:46:23 --> Trying to access array offset on value of type int
+#0 D:\xampp\htdocs\toko-online\app\Controllers\c_barang.php(111): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'D:\\xampp\\htdocs...', 111)
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#3 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-12 04:15:15 --> foreach() argument must be of type array|object, null given
+#0 D:\xampp\htdocs\toko-online\app\Views\v_invoice.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'D:\\xampp\\htdocs...', 8)
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('v_invoice', Array, true)
+#4 D:\xampp\htdocs\toko-online\app\Controllers\c_barang.php(118): view('v_invoice', Array)
+#5 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#6 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#7 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-12 04:22:27 --> foreach() argument must be of type array|object, null given
+#0 D:\xampp\htdocs\toko-online\app\Views\v_invoice.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'D:\\xampp\\htdocs...', 8)
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('v_invoice', Array, true)
+#4 D:\xampp\htdocs\toko-online\app\Controllers\c_barang.php(118): view('v_invoice', Array)
+#5 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#6 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#7 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-12 04:22:46 --> foreach() argument must be of type array|object, null given
+#0 D:\xampp\htdocs\toko-online\app\Views\v_invoice.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'D:\\xampp\\htdocs...', 8)
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('v_invoice', Array, true)
+#4 D:\xampp\htdocs\toko-online\app\Controllers\c_barang.php(118): view('v_invoice', Array)
+#5 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#6 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#7 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-12 04:40:19 --> Cannot access offset of type string on string
+#0 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('v_invoice', Array, true)
+#3 D:\xampp\htdocs\toko-online\app\Controllers\c_barang.php(118): view('v_invoice', Array)
+#4 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#5 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#6 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-12 04:55:23 --> foreach() argument must be of type array|object, null given
+#0 D:\xampp\htdocs\toko-online\app\Views\v_invoice.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'D:\\xampp\\htdocs...', 8)
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('v_invoice', Array, true)
+#4 D:\xampp\htdocs\toko-online\app\Controllers\c_barang.php(124): view('v_invoice', Array)
+#5 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->viewInvoice('$no_penjualan')
+#6 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#7 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-12 04:56:01 --> foreach() argument must be of type array|object, null given
+#0 D:\xampp\htdocs\toko-online\app\Views\v_invoice.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'D:\\xampp\\htdocs...', 8)
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('v_invoice', Array, true)
+#4 D:\xampp\htdocs\toko-online\app\Controllers\c_barang.php(124): view('v_invoice', Array)
+#5 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->viewInvoice('$no_penjualan')
+#6 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#7 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-12 04:56:04 --> Unsupported operand types: string + int
+#0 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-12 04:58:57 --> Unsupported operand types: string + string
+#0 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-12 04:58:59 --> Unsupported operand types: string + string
+#0 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->checkout()
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-12 04:59:41 --> Cannot access offset of type string on string
+#0 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('v_invoice', Array, true)
+#3 D:\xampp\htdocs\toko-online\app\Controllers\c_barang.php(125): view('v_invoice', Array)
+#4 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->viewInvoice('6')
+#5 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#6 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-12 05:10:45 --> Call to undefined method App\Models\m_penjualan::getVar
+#0 D:\xampp\htdocs\toko-online\app\Controllers\c_barang.php(122): CodeIgniter\Model->__call('getVar', Array)
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->viewInvoice('8')
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#3 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-12 05:29:34 --> Undefined variable $value
+#0 D:\xampp\htdocs\toko-online\app\Views\v_invoice.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 9)
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('v_invoice', Array, true)
+#4 D:\xampp\htdocs\toko-online\app\Controllers\c_barang.php(126): view('v_invoice', Array)
+#5 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->viewInvoice('10')
+#6 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#7 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-12 06:08:20 --> Undefined variable $cart
+#0 D:\xampp\htdocs\toko-online\app\Views\v_form_checkout.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 13)
+#1 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(214): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('v_form_checkout', Array, true)
+#4 D:\xampp\htdocs\toko-online\app\Controllers\c_barang.php(66): view('v_form_checkout')
+#5 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\c_barang->viewCheckout()
+#6 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\c_barang))
+#7 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-online\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\toko-online\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
