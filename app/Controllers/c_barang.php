@@ -13,7 +13,6 @@ class c_barang extends BaseController
         $this->m_barang = new m_barang();
         $this->m_penjualan = new m_penjualan();
         $this->m_jual = new m_jual();
-        $this->m_ongkir = new m_ongkir();
         helper('form');
         helper('number');
     }
@@ -79,18 +78,6 @@ class c_barang extends BaseController
 
         $total = $cart->total();
             
-        // Hitung Ongkir
-        $total_berat = 0;
-    
-        foreach ($cart->contents() as $value => $key) {
-            $total_berat = $total_berat + $key['options']['berat'];
-        }
-        $kode_pos = $this->request->getpost('kode_pos');
-        // dd($total_berat);
-
-
-
-
         // Input Tabel Penjualan
         $data_penjualan = [
             'nama' => $this->request->getpost('nama'),
